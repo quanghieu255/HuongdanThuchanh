@@ -10,7 +10,7 @@ T5_Awesomnium  | 1212156 | Huỳnh Nguyễn Phúc Huỳnh | mike358015@gmail.com
 T6_2G | 1212101 | Lưu Hoàng Giang | lhgiang94@gmail.com | 
 S1 | 1212163 | Nguyễn Quốc Hưng | quochungse@gmail.com | 
 S2_HNTV_T  | 1212502 | Nguyễn Văn Ty | 1212502student@gmail.com | hdbd789
-S3_ITers  | 1112299 | Ngô Hoàng Thắng | ukown2309@gmail.com | 
+S3_ITers  | 1112299 | Ngô Hoàng Thắng | ukown2309@gmail.com | NgoHoangThang2309
 S5_BBoy-Kute  | 1112440 | Huỳnh Văn Hiếu | thanksnha@gmail.com | 
 S6_gangoffight  | 1212102 | Phạm Trường Giang | giangcoi041@gmail.com |  
 L1_OSS_KHTN  | 1112006 | Trần Phạm Tuấn Anh | mrarsenal10@gmail.com | mrarsenal10
