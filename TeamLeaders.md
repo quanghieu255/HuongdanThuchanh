@@ -12,7 +12,7 @@ S1 | 1212163 | Nguyễn Quốc Hưng | quochungse@gmail.com |
 S2_HNTV_T  | 1212502 | Nguyễn Văn Ty | 1212502student@gmail.com | hdbd789
 S3_ITers  | 1112299 | Ngô Hoàng Thắng | ukown2309@gmail.com | NgoHoangThang2309
 S5_BBoy-Kute  | 1112440 | Huỳnh Văn Hiếu | thanksnha@gmail.com | 
-S6_gangoffight  | 1212102 | Phạm Trường Giang | giangcoi041@gmail.com |  
+S6_gangoffight  | 1212102 | Phạm Trường Giang | giangcoi041@gmail.com |  gangoffightplus
 L1_OSS_KHTN  | 1112006 | Trần Phạm Tuấn Anh | mrarsenal10@gmail.com | mrarsenal10
 L2_AIMABIET  | 1112501 | Nguyễn Quốc Minh Toàn | jamesbrad1309@gmail.com | 
 L3_The-Last  | 1212393 | Nguyễn Hữu Thuận | nguyenhuuthuan94@gmail.com | 
